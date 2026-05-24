@@ -12,7 +12,7 @@ The main goal of the pipeline is to demonstrate stable streaming ingestion, real
 
 ## 🏗️ System Architecture
 
-![System Architecture](./images/architecture_diagram.png)
+![System Architecture](./5.%20Architecture%20Diagram/architecture%20diagram.png)
 
 ---
 
@@ -40,4 +40,7 @@ The main goal of the pipeline is to demonstrate stable streaming ingestion, real
 
 ## 📊 Apache NiFi Workflow Canvas
 
-![Apache NiFi Flow](./images/nifi_flow.png)
+# Apache NiFi Workflow Canvas in groubs
+![Apache NiFi Flow](./2.%20NiFi%20Flow/big%20picture%20flow.png)
+# Entire NiFi Workflow Canvas
+![Apache NiFi Flow](./2.%20NiFi%20Flow/ALL%20NIFI%20FLOW%20.png)
